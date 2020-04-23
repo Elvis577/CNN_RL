@@ -37,7 +37,7 @@ model.add(Dense(9, activation='linear'))
 ### 2. Reinforcement Learing
 * Update CNN predicted (S,A) value based on the newly observed data (S', reward ...)
 
-![title](img/dqn.png)
+![title](img/redqn.png)
 
 #### Reinforcement Learing Tricks 1
 * Double Network
