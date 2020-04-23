@@ -1,11 +1,11 @@
-# CNN and RL for a Simple Game
+# Employ CNN and RL for Simple Computer Games
 
 ![title](img/demo.png)
 
 # Objectives
 #### Build a CNN which can
 * Take each frame of the game as an input state S
-* Output the action socre for each possible action A
+* Output the action score for each possible action A
 * Take the best action based on (S,A) pair which maximize the reward
 
 
