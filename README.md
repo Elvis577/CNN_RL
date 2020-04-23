@@ -1,4 +1,3 @@
-# CNN_RL
 # CNN and RL for a Simple Game
 
 ![title](img/demo.png)
